@@ -6,10 +6,9 @@
 🖥I really like programming, it was always kind of like a game puzzle.
 
 - 🔭 I’m currently working on ...
-   * Proffy:  [https://github.com/douglasdsda/proffy], it is in version 1.0, it was a content passed on rocketseat, I am developing version 2
+   * <a href="https://github.com/douglasdsda/proffy">Proffy</a>, it is in version 1.0, it was a content passed on rocketseat, I am developing version 2
    <a href="https://www.figma.com/file/m2Q75n6xDjKRYhWrIseKBv/Proffy-Web-2.0-(Copy)?node-id=160%3A2761">web</a> and  <a href="https://www.figma.com/file/yFcrnjdo0FQssylL3SAquJ/Proffy-Mobile-2.0-(Copy)?node-id=188%3A581">mobile</a>
-   
-- 🔭 I’m currently working on
+ 
  * Front-end Developer at Tecprime.
  
 - 🌱 I’m currently learning
