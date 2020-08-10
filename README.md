@@ -1,7 +1,7 @@
  
  # Hi, I'm Douglas 👋
  
->h2>Front-end Developer at Tecprime.</h2>
+💻 Front-end Developer at Tecprime.
 
 ## About me 🖊
 
