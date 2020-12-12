@@ -1,7 +1,7 @@
  
  # Hi, I'm Douglas 👋
  
-💻 Front-end Developer at Tecprime.
+💻 Front-end Developer at Wcore.
 
 ## About me 🖊
 
